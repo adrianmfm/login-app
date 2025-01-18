@@ -97,7 +97,7 @@ cd ../front-login
    ```bash
    npm run dev
    ```
-   El servidor estará disponible en: [http://localhost:5173](http://localhost:5173).
+   El servidor estará disponible en: [http://login.test/](http://login.test/).
 
 ---
 
