@@ -33,8 +33,8 @@ plogin-app/
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
+https://github.com/adrianmfm/login-app.git
+cd login-app
 ```
 
 ### 2. Configuración del Backend (Laravel)
