@@ -77,7 +77,7 @@ cd backend
     valet serve
 
    ```
-   El servidor estará disponible en: [http://127.0.0.1:8000](http://127.0.0.1:8000).
+   El servidor estará disponible en: [http://login.test].
 
 ### 3. Configuración del Frontend (Vue.js)
 ```bash
@@ -97,7 +97,7 @@ cd ../front-login
    ```bash
    npm run dev
    ```
-   El servidor estará disponible en: [http://login.test/](http://login.test/).
+   El servidor estará disponible en: [http://localhost:5173].
 
 ---
 
